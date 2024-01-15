@@ -1,0 +1,8 @@
+[submodule "SubmoduleRepository"]
+	path = SubmoduleRepository
+	url = https://github.com/voki-danylenko-y/SubmoduleRepository
+	branch = main
+[submodule "Submodule"]
+	path = Submodule
+	url = https://github.com/voki-danylenko-y/SubmoduleRepository
+	branch = main
